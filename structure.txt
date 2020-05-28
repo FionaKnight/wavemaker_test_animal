@@ -1,0 +1,50 @@
+header text
+
+why
+image
+header text
+Y x text/image blocks
+
+what
+image
+header text
+Y x text/image blocks
+
+how
+image
+header text
+Y x text/image blocks
+
+quiz (when logged in) - gives badges and gives points
+
+when passed bits to appear after quiz
+
+Resources
+image
+header text
+Y x [title, desc, link]
+
+skillsandattitude
+image
+header text
+Y x [bulletpoints]
+
+educationpathway
+hero image
+header text
+Y x text (bullet point)(at different levels ?table)
+
+careers
+hero image
+header text
+Y x [bulletpoints]
+
+at bottom
+
+links to next step
+links to 1 level above
+links to topics
+
+
+
+
