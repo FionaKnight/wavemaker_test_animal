@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <button id="fred">Test me</button>
+    <script>
+
+let myButton = document.addEventListener("click",testMe);
+
+function testMe() {
+    let urlParams = new URLSearchParams(window.location.search);
+    let myLink = urlParams.get('action');
+    location.replace(myLink+"#quiz");
+}
+
+
+    </script>
+</body>
+</html>
